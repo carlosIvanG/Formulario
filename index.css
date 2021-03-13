@@ -1,0 +1,46 @@
+body{
+	background-image: url(Captura.PNG);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img{
+	float: left;
+}
+
+p{
+ 	font-family: cursive;
+ 	font-size: 22px;
+ 	text-align: center;
+ 	color: black;
+ }
+
+ div{
+ 	border-radius: 5px;
+ 	border: 2px solid #6495ED;
+ 	background-color: #BCD2EE;
+ 	height: 60px;
+ 	width: 350px;
+ 	margin: auto;
+ 	text-align: center;
+ }
+
+ div > a {
+ 	text-decoration: none;
+ 	color: #3D59AB;
+ 	font-family: verdana, sans-serif;
+ }
+
+ div > a > span{
+ 	font-weight: bold;
+ 	font-size: 18px;
+ 	color: yellow;
+ }
+
+ footer > p {
+ 	font-size: 18px;
+ 	text-align: left;
+ }
+
+ footer > p > span{
+ 	color: red;
+ }
